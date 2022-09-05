@@ -1,2 +1,2 @@
 # wtg-supply
-Design Tokens for the SUPPLY Design SYstem
+Design Tokens for the SUPPLY Design System
