@@ -1,33 +1,92 @@
 {
-  "name": "token-transformer",
-  "version": "0.0.25",
-  "description": "A utility that transforms tokens from Figma Tokens to a format that is readable by Style Dictionary.",
+  "name": {
+    "value": "token-transformer",
+    "type": "other"
+  },
+  "version": {
+    "value": "0.0.25",
+    "type": "other"
+  },
+  "description": {
+    "value": "A utility that transforms tokens from Figma Tokens to a format that is readable by Style Dictionary.",
+    "type": "other"
+  },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/six7/figma-tokens.git",
-    "directory": "token-transformer"
+    "url": {
+      "value": "https://github.com/six7/figma-tokens.git",
+      "type": "other"
+    },
+    "directory": {
+      "value": "token-transformer",
+      "type": "other"
+    }
   },
-  "main": "index.js",
+  "main": {
+    "value": "index.js",
+    "type": "other"
+  },
   "scripts": {
-    "build-typography-test": "node index.js tokens.json temp/typography.json base/options,base/sizing,core/typography base/options,base/sizing",
-    "build-composition-test": "node index.js tokens.json temp/composition.json base/options,base/sizing,core/composition base/options,base/sizing --expandComposition=true",
-    "build-light-test": "node index.js tokens.json temp/dark.json base/options,base/sizing,themes/dark,core/shadows base/options,base/sizing",
-    "build-dark-test": "node index.js tokens.json temp/light.json base/options,base/sizing,themes/light,core/shadows base/options,base/sizing",
-    "build-folder-test": "node index.js tokens temp/folder-light.json base/options,base/sizing,themes/light,core/shadows base/options,base/sizing",
-    "build-resolve-false-test": "node index.js tokens.json temp/resolve-false.json base/options,base/sizing,themes/dark,core/shadows base/options,base/sizing --resolveReferences=false",
-    "test": "npm run build-typography-test && npm run build-light-test && npm run build-dark-test && npm run build-folder-test && npm run build-resolve-false-test && npm run build-composition-test && jest"
+    "build-typography-test": {
+      "value": "node index.js tokens.json temp/typography.json base/options,base/sizing,core/typography base/options,base/sizing",
+      "type": "other"
+    },
+    "build-composition-test": {
+      "value": "node index.js tokens.json temp/composition.json base/options,base/sizing,core/composition base/options,base/sizing --expandComposition=true",
+      "type": "other"
+    },
+    "build-light-test": {
+      "value": "node index.js tokens.json temp/dark.json base/options,base/sizing,themes/dark,core/shadows base/options,base/sizing",
+      "type": "other"
+    },
+    "build-dark-test": {
+      "value": "node index.js tokens.json temp/light.json base/options,base/sizing,themes/light,core/shadows base/options,base/sizing",
+      "type": "other"
+    },
+    "build-folder-test": {
+      "value": "node index.js tokens temp/folder-light.json base/options,base/sizing,themes/light,core/shadows base/options,base/sizing",
+      "type": "other"
+    },
+    "build-resolve-false-test": {
+      "value": "node index.js tokens.json temp/resolve-false.json base/options,base/sizing,themes/dark,core/shadows base/options,base/sizing --resolveReferences=false",
+      "type": "other"
+    },
+    "test": {
+      "value": "npm run build-typography-test && npm run build-light-test && npm run build-dark-test && npm run build-folder-test && npm run build-resolve-false-test && npm run build-composition-test && jest",
+      "type": "other"
+    }
   },
-  "author": "six7",
-  "license": "MIT",
-  "bin": "index.js",
+  "author": {
+    "value": "six7",
+    "type": "other"
+  },
+  "license": {
+    "value": "MIT",
+    "type": "other"
+  },
+  "bin": {
+    "value": "index.js",
+    "type": "other"
+  },
   "dependencies": {
-    "yargs": "^17.4.1"
+    "yargs": {
+      "value": "^17.4.1",
+      "type": "other"
+    }
   },
-  "files": [
-    "index.js",
-    "dist"
-  ],
+  "files": {
+    "0": {
+      "value": "index.js",
+      "type": "other"
+    },
+    "1": {
+      "value": "dist",
+      "type": "other"
+    }
+  },
   "devDependencies": {
-    "jest": "^28.0.3"
+    "jest": {
+      "value": "^28.0.3",
+      "type": "other"
+    }
   }
 }
