@@ -1,22 +1,11 @@
 {
-  "source": ["tokens/output-cw.json"],
-  "source": ["tokens/output-supply.json"],
+  "source": ["tokens/**/*.json"],
   "platforms": {
-    "cw": {
+    "scss": {
       "transformGroup": "scss",
-      "buildPath": "build/scss-cw/",
+      "buildPath": "build/scss/",
       "files": [{
-        "destination": "tokens-cw.scss",
-        "format": "scss/variables"
-      }]
-    }
-  },
-  "platforms": {
-    "cw": {
-      "transformGroup": "scss",
-      "buildPath": "build/scss-supply/",
-      "files": [{
-        "destination": "tokens-supply.scss",
+        "destination": "designtokens.scss",
         "format": "scss/variables"
       }]
     }
