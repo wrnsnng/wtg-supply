@@ -3,7 +3,7 @@
     "id": "6f58fae515b31f346ff414dceff0795884ef5558",
     "name": "CargoWise",
     "selectedTokenSets": {
-      "foundations": "source",
+      "foundations": "enabled",
       "typeWeb": "enabled",
       "objectStyles": "enabled",
       "coloursLight": "enabled"
