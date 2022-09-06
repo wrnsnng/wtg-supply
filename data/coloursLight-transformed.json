@@ -1,0 +1,160 @@
+{
+  "Background": {
+    "value": "{Foundation.Critical.700}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Hover": {
+    "value": "{Foundation.Critical.600}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Active": {
+    "value": "{Foundation.Critical.800}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Disabled": {
+    "value": "{Foundation.Critical.400}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Subdued": {
+    "value": "{Foundation.Critical.500}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Faint": {
+    "value": "{Foundation.Critical.200}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Faint-Hover": {
+    "value": "{Foundation.Critical.300}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Faint-Active": {
+    "value": "{Foundation.Critical.400}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Background-Faint-Disabled": {
+    "value": "{Foundation.Critical.200}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content": {
+    "value": "{Foundation.Critical.700}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Hover": {
+    "value": "{Foundation.Critical.600}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Active": {
+    "value": "{Foundation.Critical.800}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Disabled": {
+    "value": "{Foundation.Critical.500}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Subdued": {
+    "value": "{Foundation.Critical.500}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Faint": {
+    "value": "{Foundation.Critical.100}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Faint-Hover": {
+    "value": "{Foundation.Critical.300}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Faint-Active": {
+    "value": "{Foundation.Critical.400}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Content-Faint-Disabled": {
+    "value": "{Foundation.Critical.500}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border": {
+    "value": "{Foundation.Critical.700}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Hover": {
+    "value": "{Foundation.Critical.600}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Active": {
+    "value": "{Foundation.Critical.800}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Disabled": {
+    "value": "{Foundation.Critical.400}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Subdued": {
+    "value": "{Foundation.Critical.500}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Faint": {
+    "value": "{Foundation.Critical.200}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Faint-Hover": {
+    "value": "{Foundation.Critical.300}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Faint-Active": {
+    "value": "{Foundation.Critical.400}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-Faint-Disabled": {
+    "value": "{Foundation.Critical.200}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Border-aint-Active": {
+    "value": "{Foundation.Warning.400}",
+    "type": "color",
+    "failedToResolve": true
+  },
+  "Default": {
+    "value": "{Foundation.Neutral.100}",
+    "type": "color",
+    "description": "UI background color. All color contrasts evaluated and generated against this color.",
+    "failedToResolve": true
+  },
+  "Black": {
+    "value": "{Foundation.Neutral.1000}",
+    "type": "color",
+    "description": "UI background color. All color contrasts evaluated and generated against this color.",
+    "failedToResolve": true
+  },
+  "Inverse": {
+    "value": "{Foundation.Neutral.1000}",
+    "type": "color",
+    "description": "UI background color. All color contrasts evaluated and generated against this color.",
+    "failedToResolve": true
+  }
+}

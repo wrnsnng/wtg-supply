@@ -1,0 +1,532 @@
+{
+  "0": {
+    "value": 0,
+    "type": "letterSpacing"
+  },
+  "1": {
+    "value": "16px",
+    "type": "lineHeights",
+    "description": "16px = 1rem"
+  },
+  "2": {
+    "value": "{lineHeights.1}*1.25",
+    "type": "lineHeights",
+    "description": "16px = 1rem",
+    "failedToResolve": true
+  },
+  "3": {
+    "value": "{lineHeights.1}*1.5",
+    "type": "lineHeights",
+    "description": "16px = 1rem",
+    "failedToResolve": true
+  },
+  "4": {
+    "value": "{lineHeights.1}*1.75",
+    "type": "lineHeights",
+    "description": "16px = 1rem",
+    "failedToResolve": true
+  },
+  "5": {
+    "value": "{lineHeights.1}*2",
+    "type": "lineHeights",
+    "description": "16px = 1rem",
+    "failedToResolve": true
+  },
+  "6": {
+    "value": "{lineHeights.1}*2.5",
+    "type": "lineHeights",
+    "description": "16px = 1rem",
+    "failedToResolve": true
+  },
+  "7": {
+    "value": "{lineHeights.1}*3",
+    "type": "lineHeights",
+    "description": "16px = 1rem",
+    "failedToResolve": true
+  },
+  "100": {
+    "value": "{fontSizes.300}*0.75",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "200": {
+    "value": "{fontSizes.300}*0.875",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "300": {
+    "value": "16px",
+    "type": "fontSizes",
+    "description": "16px === 1rem"
+  },
+  "400": {
+    "value": "{fontSizes.300}*1.25",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "500": {
+    "value": "{fontSizes.300}*1.5",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "600": {
+    "value": "{fontSizes.300}*1.75",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "700": {
+    "value": "{fontSizes.300}*2",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "800": {
+    "value": "{fontSizes.300}*2.5",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "900": {
+    "value": "{fontSizes.300}*3",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "1000": {
+    "value": "{fontSizes.300}*4",
+    "type": "fontSizes",
+    "description": "{fontSizes.300} ===base 16px === 1rem",
+    "failedToResolve": true
+  },
+  "Primary": {
+    "100": {
+      "value": "#fdfdff",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f4f3fd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#e5e2fb",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#d4cef8",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#9487ef",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#5b47e6",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#371EE1",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#2816a5",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#1d1078",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#120a49",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    },
+    "value": "DM Sans",
+    "type": "fontFamilies"
+  },
+  "Mono": {
+    "value": "DM Mono",
+    "type": "fontFamilies"
+  },
+  "Icons": {
+    "value": "Font Awesome 5 Pro",
+    "type": "fontFamilies"
+  },
+  "Neutral": {
+    "100": {
+      "value": "#fdfdfd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f3f4f2",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#e5e6e2",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#d2d3cd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#949591",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#636361",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#494947",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#363635",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#262725",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#161616",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  },
+  "Secondary": {
+    "100": {
+      "value": "#fdfdfd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f2f4f5",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#e3e6ea",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#ced4d9",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#8996a4",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#516579",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#344b62",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#1e3852",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#0F2A46",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#081727",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  },
+  "Accent": {
+    "100": {
+      "value": "#fdfdfd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f5f4f2",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#e7e5e2",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#d5d2cc",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#9b9485",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#635740",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#524834",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#3c3627",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#2b261c",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#191610",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  },
+  "Success": {
+    "100": {
+      "value": "#fdfdfd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f0f5f3",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#dde8e3",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#c4d7d0",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#709e8c",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#2a6f54",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#1C6549",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#113e2c",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#0c2c20",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#071a13",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  },
+  "Info": {
+    "100": {
+      "value": "#fdfdfe",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f1f4f7",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#dee6ed",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#c7d5e0",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#7899b3",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#35678e",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#245A85",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#163954",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#10283b",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#091823",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  },
+  "Warning": {
+    "100": {
+      "value": "#fefdfc",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#f8f2ee",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#f0e3da",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#e4cebd",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#bf8962",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#9e4c11",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#983F00",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#5c2700",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#421c00",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#281000",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  },
+  "Critical": {
+    "100": {
+      "value": "#fefcfc",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+    },
+    "200": {
+      "value": "#fbf1f2",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+    },
+    "300": {
+      "value": "#f6e0e2",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+    },
+    "400": {
+      "value": "#efcacc",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+    },
+    "500": {
+      "value": "#d77a80",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "600": {
+      "value": "#be252e",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+    },
+    "700": {
+      "value": "#B70A15",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+    },
+    "800": {
+      "value": "#72060d",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+    },
+    "900": {
+      "value": "#530509",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 15:1 against background #ffffff"
+    },
+    "1000": {
+      "value": "#340306",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+    }
+  }
+}
