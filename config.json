@@ -1,11 +1,11 @@
 {
-  "source": ["tokens/**/*.json"],
+  "source": ["tokens-transformed/**/*.json"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
       "buildPath": "build/scss/",
       "files": [{
-        "destination": "designtokens.scss",
+        "destination": "_tokens.scss",
         "format": "scss/variables"
       }]
     }
