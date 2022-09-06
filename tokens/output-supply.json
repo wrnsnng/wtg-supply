@@ -1,0 +1,1775 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "foundations",
+      "type": "other"
+    },
+    "1": {
+      "value": "coloursLight",
+      "type": "other"
+    },
+    "2": {
+      "value": "typeWeb",
+      "type": "other"
+    }
+  },
+  "CargoWise": {
+    "id": "6f58fae515b31f346ff414dceff0795884ef5558",
+    "selectedTokenSets": {
+      "foundations": "enabled",
+      "typeWeb": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "type": "other",
+    "value": "[object Object]"
+  },
+  "Web": {
+    "lrg": {
+      "H1": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "48px",
+          "fontSize": "40px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "40px",
+          "fontSize": "32px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "32px",
+          "fontSize": "28px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H4": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "32px",
+          "fontSize": "24px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H5": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "28px",
+          "fontSize": "20px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H6": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "24px",
+          "fontSize": "16px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      }
+    },
+    "sml": {
+      "H1": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "96px",
+          "fontSize": "80px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "80px",
+          "fontSize": "64px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "64px",
+          "fontSize": "56px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H4": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "64px",
+          "fontSize": "48px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H5": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "56px",
+          "fontSize": "40px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      },
+      "H6": {
+        "value": {
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "Medium",
+          "lineHeight": "48px",
+          "fontSize": "32px",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "Canvas": {
+    "Inverse": {
+      "value": "#171616",
+      "type": "color",
+      "description": "UI background color. All color contrasts evaluated and generated against this color."
+    },
+    "Default": {
+      "value": "#f7f3ee",
+      "type": "color",
+      "description": "UI background color. All color contrasts evaluated and generated against this color."
+    }
+  },
+  "Background": {
+    "Default": {
+      "value": "#fefdfd",
+      "type": "color",
+      "description": "UI background color. All color contrasts evaluated and generated against this color."
+    },
+    "Black": {
+      "value": "#171616",
+      "type": "color",
+      "description": "UI background color. All color contrasts evaluated and generated against this color."
+    }
+  },
+  "Neutral": {
+    "Background": {
+      "value": "#4a4847",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#656260",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#383635",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#d7d1cc",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#989490",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#f7f3ee",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#ebe5e0",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#d7d1cc",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#f7f3ee",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#222221",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#656260",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#383635",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#656260",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#656260",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#fefdfd",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#ebe5e0",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#d7d1cc",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#989490",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#4a4847",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#656260",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#383635",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#d7d1cc",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#656260",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#ebe5e0",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#d7d1cc",
+      "type": "color"
+    },
+    "Border-Faint-Active": {
+      "value": "#989490",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#ebe5e0",
+      "type": "color"
+    }
+  },
+  "Primary": {
+    "Background": {
+      "value": "#1c1758",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#615b9d",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#30297f",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#d2d0e3",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#9490bd",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#f3f3f8",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#e6e5ef",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#d2d0e3",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#f3f3f8",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#1c1758",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#615b9d",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#1c1758",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#9490bd",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#9490bd",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#fdfdfe",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#e6e5ef",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#d2d0e3",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#9490bd",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#453e8c",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#615b9d",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#1c1758",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#d2d0e3",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#9490bd",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#f3f3f8",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#e6e5ef",
+      "type": "color"
+    },
+    "Border-Faint-Active": {
+      "value": "#d2d0e3",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#f3f3f8",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "Background": {
+      "value": "#0f260b",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#1e3d19",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#0a1a07",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#ced5cd",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#899986",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#f2f4f2",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#e3e7e3",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#ced5cd",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#f2f4f2",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#0f260b",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#1e3d19",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#0a1a07",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#899986",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#899986",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#fdfdfd",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#e3e7e3",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#ced5cd",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#899986",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#0f260b",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#1e3d19",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#0a1a07",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#ced5cd",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#899986",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#f2f4f2",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#e3e7e3",
+      "type": "color"
+    },
+    "Border-Faint-Active": {
+      "value": "#ced5cd",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#f2f4f2",
+      "type": "color"
+    }
+  },
+  "Info": {
+    "Background": {
+      "value": "#34496b",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#476491",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#273750",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#c8d4e8",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#7796c7",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#f0f3f9",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#dfe6f2",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#c8d4e8",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#f0f3f9",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#34496b",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#476491",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#273750",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#7796c7",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#7796c7",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#f0f3f9",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#dfe6f2",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#c8d4e8",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#7796c7",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#34496b",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#476491",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#273750",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#c8d4e8",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#7796c7",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#f0f3f9",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#dfe6f2",
+      "type": "color"
+    },
+    "Border-Faint-Active": {
+      "value": "#c8d4e8",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#f0f3f9",
+      "type": "color"
+    }
+  },
+  "Success": {
+    "Background": {
+      "value": "#37501d",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#4b6c27",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#293c15",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#c7d8b6",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#78a14d",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#f0f4eb",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#dfe9d5",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#c7d8b6",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#f0f4eb",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#37501d",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#4b6c27",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#293c15",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#78a14d",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#78a14d",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#fdfdfc",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#dfe9d5",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#c7d8b6",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#78a14d",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#37501d",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#4b6c27",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#293c15",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#c7d8b6",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#78a14d",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#f0f4eb",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#dfe9d5",
+      "type": "color"
+    },
+    "Border-Faint-Active": {
+      "value": "#c7d8b6",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#f0f4eb",
+      "type": "color"
+    }
+  },
+  "Warning": {
+    "Background": {
+      "value": "#7c320e",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#a84413",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#5d260a",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#f8c8b0",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#ee7032",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#fdf2ed",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#fbe0d3",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#f8c8b0",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#fdf2ed",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#7c320e",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#a84413",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#5d260a",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#ee7032",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#ee7032",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#fffcfb",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#fbe0d3",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#f8c8b0",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#ee7032",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#7c320e",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#a84413",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#5d260a",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#f8c8b0",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#ee7032",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#fdf2ed",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#fbe0d3",
+      "type": "color"
+    },
+    "Border-aint-Active": {
+      "value": "#f8c8b0",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#fdf2ed",
+      "type": "color"
+    }
+  },
+  "Critical": {
+    "Background": {
+      "value": "#931116",
+      "type": "color"
+    },
+    "Background-Hover": {
+      "value": "#c4171d",
+      "type": "color"
+    },
+    "Background-Active": {
+      "value": "#6f0d11",
+      "type": "color"
+    },
+    "Background-Disabled": {
+      "value": "#fac6c8",
+      "type": "color"
+    },
+    "Background-Subdued": {
+      "value": "#f2686d",
+      "type": "color"
+    },
+    "Background-Faint": {
+      "value": "#fef1f1",
+      "type": "color"
+    },
+    "Background-Faint-Hover": {
+      "value": "#fcdfe0",
+      "type": "color"
+    },
+    "Background-Faint-Active": {
+      "value": "#fac6c8",
+      "type": "color"
+    },
+    "Background-Faint-Disabled": {
+      "value": "#fef1f1",
+      "type": "color"
+    },
+    "Content": {
+      "value": "#931116",
+      "type": "color"
+    },
+    "Content-Hover": {
+      "value": "#c4171d",
+      "type": "color"
+    },
+    "Content-Active": {
+      "value": "#6f0d11",
+      "type": "color"
+    },
+    "Content-Disabled": {
+      "value": "#f2686d",
+      "type": "color"
+    },
+    "Content-Subdued": {
+      "value": "#f2686d",
+      "type": "color"
+    },
+    "Content-Faint": {
+      "value": "#fffcfc",
+      "type": "color"
+    },
+    "Content-Faint-Hover": {
+      "value": "#fcdfe0",
+      "type": "color"
+    },
+    "Content-Faint-Active": {
+      "value": "#fac6c8",
+      "type": "color"
+    },
+    "Content-Faint-Disabled": {
+      "value": "#f2686d",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#931116",
+      "type": "color"
+    },
+    "Border-Hover": {
+      "value": "#c4171d",
+      "type": "color"
+    },
+    "Border-Active": {
+      "value": "#6f0d11",
+      "type": "color"
+    },
+    "Border-Disabled": {
+      "value": "#fac6c8",
+      "type": "color"
+    },
+    "Border-Subdued": {
+      "value": "#f2686d",
+      "type": "color"
+    },
+    "Border-Faint": {
+      "value": "#fef1f1",
+      "type": "color"
+    },
+    "Border-Faint-Hover": {
+      "value": "#fcdfe0",
+      "type": "color"
+    },
+    "Border-Faint-Active": {
+      "value": "#fac6c8",
+      "type": "color"
+    },
+    "Border-Faint-Disabled": {
+      "value": "#fef1f1",
+      "type": "color"
+    }
+  },
+  "Foundation": {
+    "Neutral": {
+      "100": {
+        "value": "#fefdfd",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#f7f3ee",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#ebe5e0",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#d7d1cc",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#989490",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#656260",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#4a4847",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#383635",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#222221",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#171616",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    },
+    "Primary": {
+      "100": {
+        "value": "#fdfdfe",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#f3f3f8",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#e6e5ef",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#d2d0e3",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#9490bd",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#615b9d",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#453e8c",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#30297f",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#1c1758",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#13103d",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    },
+    "Secondary": {
+      "100": {
+        "value": "#fdfdfd",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#f2f4f2",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#e3e7e3",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#ced5cd",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#899986",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#51694d",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#34502f",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#1e3d19",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#0f260b",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#0a1a07",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    },
+    "Success": {
+      "100": {
+        "value": "#fdfdfc",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#f0f4eb",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#dfe9d5",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#c7d8b6",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#78a14d",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#4b6c27",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#37501d",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#293c15",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#19250d",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#111909",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    },
+    "Info": {
+      "100": {
+        "value": "#fdfdfe",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#f0f3f9",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#dfe6f2",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#c8d4e8",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#7796c7",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#476491",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#34496b",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#273750",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#182231",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#101721",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    },
+    "Warning": {
+      "100": {
+        "value": "#fffcfb",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#fdf2ed",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#fbe0d3",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#f8c8b0",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#ee7032",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#a84413",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#7c320e",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#5d260a",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#3a1706",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#281004",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    },
+    "Critical": {
+      "100": {
+        "value": "#fffcfc",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.01:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#fef1f1",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.1:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#fcdfe0",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.25:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#fac6c8",
+        "type": "color",
+        "description": "Do not use for UI elements or text. Contrast is 1.5:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#f2686d",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#c4171d",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 6:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#931116",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 9:1 against background #ffffff"
+      },
+      "800": {
+        "value": "#6f0d11",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 12:1 against background #ffffff"
+      },
+      "900": {
+        "value": "#48080b",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 16:1 against background #ffffff"
+      },
+      "1000": {
+        "value": "#320607",
+        "type": "color",
+        "description": "Color can be used for small text. Contrast is 18:1 against background #ffffff"
+      }
+    }
+  },
+  "fontFamilies": {
+    "Primary": {
+      "value": "Space Grotesk",
+      "type": "fontFamilies"
+    },
+    "Mono": {
+      "value": "Space Mono",
+      "type": "fontFamilies"
+    },
+    "Icons": {
+      "value": "Font Awesome 5 Pro",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "1": {
+      "value": "16px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    },
+    "2": {
+      "value": "20px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    },
+    "3": {
+      "value": "24px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    },
+    "4": {
+      "value": "28px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    },
+    "5": {
+      "value": "32px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    },
+    "6": {
+      "value": "40px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    },
+    "7": {
+      "value": "48px",
+      "type": "lineHeights",
+      "description": "16px = 1rem"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "100": {
+      "value": 4,
+      "type": "letterSpacing"
+    },
+    "200": {
+      "value": 4,
+      "type": "letterSpacing"
+    },
+    "300": {
+      "value": 6,
+      "type": "letterSpacing"
+    }
+  },
+  "fontWeights": {
+    "100": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "200": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "300": {
+      "value": "Book",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "Semi-Bold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "800": {
+      "value": "Extrabold",
+      "type": "fontWeights"
+    },
+    "900": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  },
+  "fontSizes": {
+    "100": {
+      "value": "12px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "200": {
+      "value": "14px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "300": {
+      "value": "16px",
+      "type": "fontSizes",
+      "description": "16px === 1rem"
+    },
+    "400": {
+      "value": "20px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "500": {
+      "value": "24px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "600": {
+      "value": "28px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "700": {
+      "value": "32px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "800": {
+      "value": "40px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "900": {
+      "value": "48px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    },
+    "1000": {
+      "value": "64px",
+      "type": "fontSizes",
+      "description": "{fontSizes.300} ===base 16px === 1rem"
+    }
+  },
+  "Display-Large": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "48px",
+      "fontSize": "40px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Display": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "40px",
+      "fontSize": "32px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Display-Small": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "32px",
+      "fontSize": "24px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Title-Large": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Medium",
+      "lineHeight": "28px",
+      "fontSize": "20px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Title": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Medium",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Title-Small": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Medium",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Large": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Regular",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "paragraphSpacing": "",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Large-Strong": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "paragraphSpacing": "",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Large-Link": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Regular",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "paragraphSpacing": "",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "Body": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Strong": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Link": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "Body-Small": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Small-Strong": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Body-Small-Link": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "Button": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Button-Small": {
+    "value": {
+      "fontFamily": "Space Grotesk",
+      "fontWeight": "Bold",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Large": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Regular",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "paragraphSpacing": "",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Large-Strong": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Medium",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "paragraphSpacing": "",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Large-Link": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Regular",
+      "lineHeight": "24px",
+      "fontSize": "16px",
+      "letterSpacing": 0,
+      "paragraphSpacing": "",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "Numeric": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Strong": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Medium",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Link": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "14px",
+      "letterSpacing": 0,
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "Numeric-Small": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Small-Strong": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Medium",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Numeric-Small-Link": {
+    "value": {
+      "fontFamily": "Space Mono",
+      "fontWeight": "Regular",
+      "lineHeight": "20px",
+      "fontSize": "12px",
+      "letterSpacing": 0,
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  }
+}
