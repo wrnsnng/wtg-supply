@@ -10,7 +10,7 @@ The Figma Tokens are then transformed using the ```token-transformer``` into a f
 tokens
 ```
 
-Style Dictionary will then be executed and the design tokens will be translated into ```scscc``` which can be found here:
+Style Dictionary will then be executed and the design tokens will be translated into ```scss``` which can be found here:
 ```
 build
 ```
