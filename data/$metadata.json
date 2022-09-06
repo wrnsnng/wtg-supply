@@ -3,11 +3,6 @@
     "foundations",
     "coloursLight",
     "typeWeb",
-    "objectStyles",
-    "coloursLight-transformed",
-    "foundations-transformedt",
-    "objectStyles-transformed",
-    "token-transformer/package",
-    "typeWeb-transformed"
+    "objectStyles"
   ]
 }
