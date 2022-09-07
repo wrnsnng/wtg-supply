@@ -434,31 +434,31 @@
     },
     "Background": {
       "Default": {
-        "value": "{Foundation.Neutral.100}",
+        "value": "{Foundation.Neutral.1000}",
         "type": "color",
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       },
       "Black": {
-        "value": "{Foundation.Neutral.1000}",
+        "value": "{Foundation.Neutral.100}",
         "type": "color",
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       }
     },
     "Neutral": {
       "Background": {
-        "value": "{Foundation.Neutral.700}",
+        "value": "{Foundation.Neutral.300}",
         "type": "color"
       },
       "Background-Hover": {
-        "value": "{Foundation.Neutral.600}",
+        "value": "{Foundation.Neutral.400}",
         "type": "color"
       },
       "Background-Active": {
-        "value": "{Foundation.Neutral.800}",
+        "value": "{Foundation.Neutral.200}",
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Neutral.400}",
+        "value": "{Foundation.Neutral.600}",
         "type": "color"
       },
       "Background-Subdued": {
@@ -466,51 +466,51 @@
         "type": "color"
       },
       "Background-Faint": {
-        "value": "{Foundation.Neutral.200}",
-        "type": "color"
-      },
-      "Background-Faint-Hover": {
-        "value": "{Foundation.Neutral.300}",
-        "type": "color"
-      },
-      "Background-Faint-Active": {
-        "value": "{Foundation.Neutral.400}",
-        "type": "color"
-      },
-      "Background-Faint-Disabled": {
-        "value": "{Foundation.Neutral.200}",
-        "type": "color"
-      },
-      "Content": {
         "value": "{Foundation.Neutral.900}",
         "type": "color"
       },
-      "Content-Hover": {
-        "value": "{Foundation.Neutral.600}",
-        "type": "color"
-      },
-      "Content-Active": {
+      "Background-Faint-Hover": {
         "value": "{Foundation.Neutral.800}",
         "type": "color"
       },
-      "Content-Disabled": {
+      "Background-Faint-Active": {
         "value": "{Foundation.Neutral.600}",
         "type": "color"
       },
-      "Content-Subdued": {
-        "value": "{Foundation.Neutral.600}",
+      "Background-Faint-Disabled": {
+        "value": "{Foundation.Neutral.900}",
         "type": "color"
       },
-      "Content-Faint": {
+      "Content": {
         "value": "{Foundation.Neutral.100}",
         "type": "color"
       },
+      "Content-Hover": {
+        "value": "{Foundation.Neutral.400}",
+        "type": "color"
+      },
+      "Content-Active": {
+        "value": "{Foundation.Neutral.200}",
+        "type": "color"
+      },
+      "Content-Disabled": {
+        "value": "{Foundation.Neutral.400}",
+        "type": "color"
+      },
+      "Content-Subdued": {
+        "value": "{Foundation.Neutral.400}",
+        "type": "color"
+      },
+      "Content-Faint": {
+        "value": "{Foundation.Neutral.900}",
+        "type": "color"
+      },
       "Content-Faint-Hover": {
-        "value": "{Foundation.Neutral.300}",
+        "value": "{Foundation.Neutral.800}",
         "type": "color"
       },
       "Content-Faint-Active": {
-        "value": "{Foundation.Neutral.400}",
+        "value": "{Foundation.Neutral.600}",
         "type": "color"
       },
       "Content-Faint-Disabled": {
@@ -518,31 +518,31 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Neutral.700}",
-        "type": "color"
-      },
-      "Border-Hover": {
-        "value": "{Foundation.Neutral.600}",
-        "type": "color"
-      },
-      "Border-Active": {
-        "value": "{Foundation.Neutral.800}",
-        "type": "color"
-      },
-      "Border-Disabled": {
-        "value": "{Foundation.Neutral.400}",
-        "type": "color"
-      },
-      "Border-Subdued": {
-        "value": "{Foundation.Neutral.600}",
-        "type": "color"
-      },
-      "Border-Faint": {
         "value": "{Foundation.Neutral.300}",
         "type": "color"
       },
-      "Border-Faint-Hover": {
+      "Border-Hover": {
         "value": "{Foundation.Neutral.400}",
+        "type": "color"
+      },
+      "Border-Active": {
+        "value": "{Foundation.Neutral.200}",
+        "type": "color"
+      },
+      "Border-Disabled": {
+        "value": "{Foundation.Neutral.600}",
+        "type": "color"
+      },
+      "Border-Subdued": {
+        "value": "{Foundation.Neutral.400}",
+        "type": "color"
+      },
+      "Border-Faint": {
+        "value": "{Foundation.Neutral.800}",
+        "type": "color"
+      },
+      "Border-Faint-Hover": {
+        "value": "{Foundation.Neutral.600}",
         "type": "color"
       },
       "Border-Faint-Active": {
@@ -550,25 +550,25 @@
         "type": "color"
       },
       "Border-Faint-Disabled": {
-        "value": "{Foundation.Neutral.300}",
+        "value": "{Foundation.Neutral.800}",
         "type": "color"
       }
     },
     "Primary": {
       "Background": {
-        "value": "{Foundation.Primary.700}",
+        "value": "{Foundation.Primary.300}",
         "type": "color"
       },
       "Background-Hover": {
-        "value": "{Foundation.Primary.600}",
+        "value": "{Foundation.Primary.400}",
         "type": "color"
       },
       "Background-Active": {
-        "value": "{Foundation.Primary.800}",
+        "value": "{Foundation.Primary.200}",
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Primary.400}",
+        "value": "{Foundation.Primary.600}",
         "type": "color"
       },
       "Background-Subdued": {
@@ -576,31 +576,31 @@
         "type": "color"
       },
       "Background-Faint": {
-        "value": "{Foundation.Primary.200}",
+        "value": "{Foundation.Primary.900}",
         "type": "color"
       },
       "Background-Faint-Hover": {
-        "value": "{Foundation.Primary.300}",
+        "value": "{Foundation.Primary.800}",
         "type": "color"
       },
       "Background-Faint-Active": {
-        "value": "{Foundation.Primary.400}",
-        "type": "color"
-      },
-      "Background-Faint-Disabled": {
-        "value": "{Foundation.Primary.200}",
-        "type": "color"
-      },
-      "Content": {
-        "value": "{Foundation.Primary.700}",
-        "type": "color"
-      },
-      "Content-Hover": {
         "value": "{Foundation.Primary.600}",
         "type": "color"
       },
-      "Content-Active": {
+      "Background-Faint-Disabled": {
         "value": "{Foundation.Primary.900}",
+        "type": "color"
+      },
+      "Content": {
+        "value": "{Foundation.Primary.300}",
+        "type": "color"
+      },
+      "Content-Hover": {
+        "value": "{Foundation.Primary.400}",
+        "type": "color"
+      },
+      "Content-Active": {
+        "value": "{Foundation.Primary.200}",
         "type": "color"
       },
       "Content-Disabled": {
@@ -612,15 +612,15 @@
         "type": "color"
       },
       "Content-Faint": {
-        "value": "{Foundation.Primary.100}",
+        "value": "{Foundation.Primary.900}",
         "type": "color"
       },
       "Content-Faint-Hover": {
-        "value": "{Foundation.Primary.300}",
+        "value": "{Foundation.Primary.700}",
         "type": "color"
       },
       "Content-Faint-Active": {
-        "value": "{Foundation.Primary.400}",
+        "value": "{Foundation.Primary.600}",
         "type": "color"
       },
       "Content-Faint-Disabled": {
@@ -628,15 +628,15 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Primary.700}",
+        "value": "{Foundation.Primary.300}",
         "type": "color"
       },
       "Border-Hover": {
-        "value": "{Foundation.Primary.600}",
+        "value": "{Foundation.Primary.400}",
         "type": "color"
       },
       "Border-Active": {
-        "value": "{Foundation.Primary.900}",
+        "value": "{Foundation.Primary.100}",
         "type": "color"
       },
       "Border-Disabled": {
