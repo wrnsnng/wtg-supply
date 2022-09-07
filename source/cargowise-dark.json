@@ -422,12 +422,12 @@
   "coloursDark": {
     "Canvas": {
       "Inverse": {
-        "value": "{Foundation.Neutral.1000}",
+        "value": "{Foundation.Neutral.200}",
         "type": "color",
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       },
       "Default": {
-        "value": "{Foundation.Neutral.200}",
+        "value": "{Foundation.Neutral.1000}",
         "type": "color",
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       }
