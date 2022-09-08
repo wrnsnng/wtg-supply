@@ -323,14 +323,14 @@
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       },
       "Default": {
-        "value": "{Foundation.Primary.100}",
+        "value": "{Foundation.Neutral.100}",
         "type": "color",
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       }
     },
     "Background": {
       "Default": {
-        "value": "{Foundation.Primary.200}",
+        "value": "{Foundation.Neutral.200}",
         "type": "color",
         "description": "UI background color. All color contrasts evaluated and generated against this color."
       },
