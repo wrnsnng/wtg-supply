@@ -491,7 +491,7 @@
       "type": "color"
     },
     "Background-Faint": {
-      "value": "#DAF5FD",
+      "value": "#EFFAFD",
       "type": "color"
     },
     "Background-Faint-Hover": {
@@ -631,7 +631,7 @@
       "type": "color"
     },
     "Background-Faint": {
-      "value": "#E7F4E9",
+      "value": "#F1FAF3",
       "type": "color"
     },
     "Background-Faint-Hover": {
@@ -823,7 +823,7 @@
       "type": "color"
     },
     "Border": {
-      "value": "#FEDBCB",
+      "value": "#B64809",
       "type": "color"
     },
     "Border-Hover": {
@@ -911,7 +911,7 @@
       "type": "color"
     },
     "Background-Faint": {
-      "value": "#FEEDEB",
+      "value": "#FFF6F4",
       "type": "color"
     },
     "Background-Faint-Hover": {
