@@ -1341,7 +1341,7 @@
         "type": "color"
       },
       "Background-Faint": {
-        "value": "{Foundation.Warning.200}",
+        "value": "{Foundation.Warning.100}",
         "type": "color"
       },
       "Background-Faint-Hover": {
