@@ -1121,7 +1121,7 @@
         "type": "color"
       },
       "Background-Faint": {
-        "value": "{Foundation.Info.200}",
+        "value": "{Foundation.Info.100}",
         "type": "color"
       },
       "Background-Faint-Hover": {
@@ -1231,7 +1231,7 @@
         "type": "color"
       },
       "Background-Faint": {
-        "value": "{Foundation.Success.200}",
+        "value": "{Foundation.Success.100}",
         "type": "color"
       },
       "Background-Faint-Hover": {
@@ -1393,7 +1393,7 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Warning.300}",
+        "value": "{Foundation.Warning.600}",
         "type": "color"
       },
       "Border-Hover": {
@@ -1451,7 +1451,7 @@
         "type": "color"
       },
       "Background-Faint": {
-        "value": "{Foundation.Critical.200}",
+        "value": "{Foundation.Critical.100}",
         "type": "color"
       },
       "Background-Faint-Hover": {
