@@ -213,43 +213,43 @@
       },
       "Warning": {
         "100": {
-          "value": "#FFF8DD",
+          "value": "#FFF6F2",
           "type": "color"
         },
         "200": {
-          "value": "#FFF1BB",
+          "value": "#FFEDE4",
           "type": "color"
         },
         "300": {
-          "value": "#FFE176",
+          "value": "#FEDBCB",
           "type": "color"
         },
         "400": {
-          "value": "#D9B62F",
+          "value": "#FEA27C",
           "type": "color"
         },
         "500": {
-          "value": "#AA8E23",
+          "value": "#F6610C",
           "type": "color"
         },
         "600": {
-          "value": "#7E6918",
+          "value": "#B64809",
           "type": "color"
         },
         "700": {
-          "value": "#54450A",
+          "value": "#7D2D03",
           "type": "color"
         },
         "800": {
-          "value": "#3B2F04",
+          "value": "#581E01",
           "type": "color"
         },
         "900": {
-          "value": "#221B05",
+          "value": "#360F00",
           "type": "color"
         },
         "1000": {
-          "value": "#171000",
+          "value": "#240801",
           "type": "color"
         }
       },
@@ -1357,7 +1357,7 @@
         "type": "color"
       },
       "Content": {
-        "value": "{Foundation.Warning.700}",
+        "value": "{Foundation.Warning.500}",
         "type": "color"
       },
       "Content-Hover": {
