@@ -991,15 +991,15 @@
     },
     "Accent": {
       "Background": {
-        "value": "{Foundation.Accent.700}",
-        "type": "color"
-      },
-      "Background-Hover": {
         "value": "{Foundation.Accent.600}",
         "type": "color"
       },
+      "Background-Hover": {
+        "value": "{Foundation.Accent.500}",
+        "type": "color"
+      },
       "Background-Active": {
-        "value": "{Foundation.Accent.800}",
+        "value": "{Foundation.Accent.700}",
         "type": "color"
       },
       "Background-Disabled": {
@@ -1027,15 +1027,15 @@
         "type": "color"
       },
       "Content": {
-        "value": "{Foundation.Accent.700}",
-        "type": "color"
-      },
-      "Content-Hover": {
         "value": "{Foundation.Accent.600}",
         "type": "color"
       },
+      "Content-Hover": {
+        "value": "{Foundation.Accent.500}",
+        "type": "color"
+      },
       "Content-Active": {
-        "value": "{Foundation.Accent.900}",
+        "value": "{Foundation.Accent.700}",
         "type": "color"
       },
       "Content-Disabled": {
@@ -1063,15 +1063,15 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Accent.700}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Accent.600}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Accent.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Accent.900}",
+        "value": "{Foundation.Accent.700}",
         "type": "color"
       },
       "Border-Disabled": {
