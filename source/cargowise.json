@@ -499,7 +499,7 @@
     "Body-Large-Strong": {
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.500}",
         "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSizes.300}",
         "letterSpacing": "{letterSpacing.0}",
@@ -534,7 +534,7 @@
     "Body-Strong": {
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.500}",
         "lineHeight": "{lineHeights.2}",
         "fontSize": "{fontSizes.200}",
         "letterSpacing": "{letterSpacing.0}",
@@ -567,7 +567,7 @@
     "Body-Small-Strong": {
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.500}",
         "lineHeight": "{lineHeights.2}",
         "fontSize": "{fontSizes.100}",
         "letterSpacing": "{letterSpacing.0}",
@@ -589,7 +589,7 @@
     "Button": {
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.500}",
         "lineHeight": "{lineHeights.2}",
         "fontSize": "{fontSizes.200}",
         "letterSpacing": "{letterSpacing.0}",
@@ -600,7 +600,7 @@
     "Button-Small": {
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.500}",
         "lineHeight": "{lineHeights.2}",
         "fontSize": "{fontSizes.100}",
         "letterSpacing": "{letterSpacing.0}",
