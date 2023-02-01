@@ -3,7 +3,7 @@
     "Foundation": {
       "Neutral": {
         "100": {
-          "value": "#F8F8F7",
+          "value": "#e60837",
           "type": "color"
         },
         "200": {
@@ -2036,8 +2036,7 @@
         "foundations": "enabled",
         "typeWeb": "enabled",
         "objectStyles": "enabled",
-        "coloursLight": "enabled",
-        "gridColourSchemes": "disabled"
+        "coloursLight": "enabled"
       },
       "$figmaStyleReferences": {
         "Web.lrg.H1": "S:6425c28d09fd98fee68892b8e28598c3e895cc51,",
